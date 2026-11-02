@@ -1,0 +1,2784 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 10
+/Kids [ 4 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2035
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+Q
+q
+1 0 0 1 57.02362 671.4803 cm
+Q
+q
+1 0 0 1 57.02362 637.4803 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 6 Tm /F2 28 Tf 34 TL 134.8162 0 Td (CI/CD PIPELINE) Tj T* -134.8162 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 607.4803 cm
+q
+.32549 .384314 .45098 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 118.8982 0 Td (From Source Code to Automated Deployment) Tj T* -118.8982 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 579.1339 cm
+Q
+q
+1 0 0 1 165.3 576.1339 cm
+q
+2 w
+1 J
+.086275 .54902 .54902 RG
+n 0 0 m 264.6756 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 541.1181 cm
+Q
+q
+1 0 0 1 57.02362 487.1181 cm
+q
+BT 1 0 0 1 0 42 Tm 183.2722 0 Td 18 TL /F2 12 Tf .32549 .384314 .45098 rg (Teaching Handbook) Tj /F1 12 Tf  T* -21.02403 0 Td (AI Essentials Workshop 2026) Tj  T* -28.68003 0 Td (Undergraduate \267 Third-Year Engineering) Tj T* -133.5682 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.0945 cm
+Q
+q
+1 0 0 1 57.02362 418.0945 cm
+q
+.32549 .384314 .45098 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 116.1682 0 Td (Git \177 GitHub \177 GitHub Actions \177 Pytest \177 Render) Tj T* -116.1682 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.0315 cm
+Q
+q
+1 0 0 1 57.02362 246.0315 cm
+q
+.32549 .384314 .45098 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 18 TL 23.85817 0 Td (A practical learning resource covering the concepts, terminology, architecture and) Tj T* 9.336003 0 Td (workflow behind Continuous Integration and Continuous Delivery/Deployment.) Tj T* -33.19417 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 476.8898 595.2756 75 re
+f*
+0.32549 0.384314 0.45098 rg
+BT
+/F2-0 15 Tf
+18 TL
+ET
+BT
+1 0 0 1 260.9703 528.8898 Tm
+(Handbook) Tj
+T*
+ET
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 236.6058 505.8898 Tm
+(Applied AI Engineering) Tj
+T*
+ET
+BT
+/F2-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 252.7135 451.8898 Tm
+(R Sumanth Simha) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 253.4578 434.8898 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6856
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (How to use this handbook) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 707.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (This handbook is designed to support a live workshop. Use it as a reference rather than reading every paragraph) Tj T* (aloud. Introduce a real development problem, explain the concept that addresses it, show the workflow, and then) Tj T* (demonstrate the implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 687.1969 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 30 re B*
+Q
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F2 9.5 Tf .090196 .196078 .301961 rg (Suggested teaching principle: Explain why a practice exists before showing students how to configure it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (1. Introduction to Software Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Software development is more than writing code. A reliable application passes through activities such as planning,) Tj T* (design, implementation, testing, integration, deployment and maintenance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 567.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Imagine five developers working on a student-management application. One handles authentication, another) Tj T* (registration, another attendance, another fee management and another reports. Their work must eventually be) Tj T* (combined into one application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 547.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (That creates practical questions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 527.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 What if a developer introduces a bug?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 507.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 What if two developers change the same file?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 How can the team verify that combined changes still work?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 467.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 How can every change be tested consistently?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 447.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 How can a validated version be released reliably?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 413.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (CI/CD practices help teams address these problems by making integration, validation and delivery more repeatable) Tj T* (and automated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 377.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (2. Version Control: Git and GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 341.1969 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (Version Control) Tj /F1 9.3 Tf ( is the practice of recording changes to files over time. It helps developers inspect history, compare) Tj T* (versions, restore earlier work and collaborate safely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 316.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (What is Git?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Git is a distributed version control system. Developers use it to track source-code changes, create branches, commit) Tj T* (work and merge changes. Git can operate locally without GitHub.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (What is GitHub?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 223.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (GitHub is a cloud-based platform for hosting Git repositories and collaborating around them. It adds features such as) Tj T* (remote repositories, Pull Requests, code review, Issues and GitHub Actions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 103.1969 cm
+q
+.090196 .196078 .301961 rg
+n 0 114 481.2283 -22 re f*
+1 1 1 rg
+n 0 92 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 69 481.2283 -23 re f*
+1 1 1 rg
+n 0 46 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 23 481.2283 -23 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 98 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 98 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (GitHub) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Version control system) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 75 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Repository hosting and collaboration platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Tracks changes in repositories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Hosts remote repositories and team workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Supports local commits, branches and merges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Provides Pull Requests, reviews and automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Can be used without GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Uses Git repositories) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 114 m 481.2283 114 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 114 l S
+n 481.2283 0 m 481.2283 114 l S
+n 0 92 m 481.2283 92 l S
+n 0 69 m 481.2283 69 l S
+n 0 46 m 481.2283 46 l S
+n 0 23 m 481.2283 23 l S
+n 240.6142 0 m 240.6142 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 96.19685 cm
+Q
+q
+1 0 0 1 57.02362 63.19685 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 44 re B*
+Q
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F2 9.5 Tf .090196 .196078 .301961 rg (Remember: Git manages version history; GitHub provides a place and collaboration tools for Git) Tj T* (repositories.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 16 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 6081
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (3. Software Development Lifecycle \(SDLC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 721.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (The Software Development Lifecycle is a structured way to plan, build, test, release and maintain software. Common) Tj T* (stages include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 701.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (1.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Planning:) Tj /F1 9.3 Tf ( Define the problem, users, scope and requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (2.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Analysis:) Tj /F1 9.3 Tf ( Examine requirements, constraints and feasibility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 661.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (3.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Design:) Tj /F1 9.3 Tf ( Define the architecture, data model and interfaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 641.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (4.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Development:) Tj /F1 9.3 Tf ( Implement the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 621.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (5.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Testing:) Tj /F1 9.3 Tf ( Check whether the application behaves as expected.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 601.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (6.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Deployment:) Tj /F1 9.3 Tf ( Release the application into a target environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 581.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (7.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Maintenance:) Tj /F1 9.3 Tf ( Monitor, fix and improve the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 547.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (CI/CD supports and automates parts of development, integration, testing, release and deployment. It is not a) Tj T* (replacement for the entire SDLC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (4. Continuous Integration \(CI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 475.1969 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (Continuous Integration) Tj /F1 9.3 Tf ( is a software-development practice in which developers integrate changes into a shared) Tj T* (codebase frequently. Automated checks are run on those changes so that problems can be detected early.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Why CI is useful) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 402.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Suppose several developers work on separate features. Each feature may work on its author's laptop but fail when) Tj T* (combined with the rest of the application. If integration happens infrequently, the source of the failure can be difficult) Tj T* (to identify.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 368.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (With CI, pushes or Pull Requests can trigger automated checks such as dependency installation, builds, tests, linting) Tj T* (and other quality checks. Developers receive feedback soon after submitting changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Typical CI checks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 323.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Install required dependencies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Build or validate the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Run automated tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 263.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Check formatting or code quality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 243.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Optionally run security or dependency checks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 209.1969 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (Benefits:) Tj /F1 9.3 Tf ( earlier defect detection, faster feedback, more consistent testing, fewer late integration surprises and) Tj T* (improved collaboration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 175.1969 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 44 re B*
+Q
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F2 9.5 Tf .090196 .196078 .301961 rg (Important: CI does not prove that software is bug-free. It only checks the conditions covered by the) Tj T* (configured pipeline and tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 139.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (5. Continuous Delivery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 89.19685 cm
+q
+BT 1 0 0 1 0 32.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (Continuous Delivery) Tj /F1 9.3 Tf ( is a practice in which changes are automatically built, tested and prepared so that the) Tj T* (application can be released reliably. The software is kept in a deployable state, while production deployment) Tj T* (commonly involves a manual approval or release decision.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 6644
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 751.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Example: a developer pushes a change; automated checks pass; the application is packaged and made ready for) Tj T* (release; an authorized person decides when to deploy it to production.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (6. Continuous Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.1969 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (Continuous Deployment) Tj /F1 9.3 Tf ( extends automation so that every change that passes the required pipeline checks can be) Tj T* (deployed automatically to production, without a separate manual approval for each release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 645.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Example: a developer fixes a bug, pushes the change, automated checks pass, and the updated application is) Tj T* (deployed automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 609.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (7. CI vs Continuous Delivery vs Continuous Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.1969 cm
+q
+.090196 .196078 .301961 rg
+n 0 148 481.2283 -22 re f*
+1 1 1 rg
+n 0 126 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 103 481.2283 -23 re f*
+1 1 1 rg
+n 0 80 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 57 481.2283 -23 re f*
+1 1 1 rg
+n 0 34 481.2283 -34 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Capability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (CI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Continuous Delivery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Continuous Deployment) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 109 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Frequent integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 109 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 109 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 109 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Automated tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 86 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Typical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 86 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 86 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Build and validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 63 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Typical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 63 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 63 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 40 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Ready for release) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 40 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Not necessarily) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 40 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 40 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Yes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Production deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.3071 17 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Not part of CI itself) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 17 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Usually after approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.9213 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Automatic after required) Tj T* (checks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 148 m 481.2283 148 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 148 l S
+n 481.2283 0 m 481.2283 148 l S
+n 0 126 m 481.2283 126 l S
+n 0 103 m 481.2283 103 l S
+n 0 80 m 481.2283 80 l S
+n 0 57 m 481.2283 57 l S
+n 0 34 m 481.2283 34 l S
+n 120.3071 0 m 120.3071 148 l S
+n 240.6142 0 m 240.6142 148 l S
+n 360.9213 0 m 360.9213 148 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 446.1969 cm
+Q
+q
+1 0 0 1 57.02362 413.1969 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 44 re B*
+Q
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F2 9.5 Tf .090196 .196078 .301961 rg (Easy way to remember: CI asks whether changes pass the checks. Continuous Delivery keeps the) Tj T* (application ready to release. Continuous Deployment releases qualifying changes automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 377.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (8. What is a CI/CD Pipeline?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 341.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (A CI/CD pipeline is an automated sequence of tasks that takes source-code changes through validation, testing,) Tj T* (building and, where configured, release and deployment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 65.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 262.4 Tm /F3 7.6 Tf 10 TL (Developer writes code) Tj T* (        |) Tj T* (        v) Tj T* (   Git repository) Tj T* (        |) Tj T* (        v) Tj T* (   Push / Pull Request) Tj T* (        |) Tj T* (        v) Tj T* (   Pipeline is triggered) Tj T* (        |) Tj T* (        v) Tj T* (   Install dependencies) Tj T* (        |) Tj T* (        v) Tj T* (   Build / validate application) Tj T* (        |) Tj T* (        v) Tj T* (   Run automated tests) Tj T* (        |) Tj T* (        v) Tj T* (   Evaluate results) Tj T* (      /       \\\\) Tj T* (   Fail       Pass) Tj T* (    |           |) Tj T* ( Report       Prepare release) Tj T* ( failure          |) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 22 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 5563
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 729.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 42.4 Tm /F3 7.6 Tf 10 TL (                  v) Tj T* (              Deployment) Tj T* (                  |) Tj T* (                  v) Tj T* (             Live application) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 693.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (A pipeline may contain source, build, test, release, deployment and monitoring stages. The exact stages and order) Tj T* (depend on the application and team's delivery process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 657.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (9. GitHub Actions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 621.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (GitHub Actions is GitHub's workflow-automation platform. It can run automated tasks in response to repository) Tj T* (events, including tests, builds, scheduled jobs and deployments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 601.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F1 9.3 Tf .12549 .164706 .203922 rg (Workflow files are written in YAML and stored in the repository under ) Tj /F3 9.3 Tf (.github/workflows/) Tj /F1 9.3 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Core terminology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.1969 cm
+q
+.090196 .196078 .301961 rg
+n 0 228 481.2283 -22 re f*
+1 1 1 rg
+n 0 206 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 183 481.2283 -23 re f*
+1 1 1 rg
+n 0 160 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 137 481.2283 -23 re f*
+1 1 1 rg
+n 0 114 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 91 481.2283 -23 re f*
+1 1 1 rg
+n 0 68 481.2283 -34 re f*
+.956863 .964706 .972549 rg
+n 0 34 481.2283 -34 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 212 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Term) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 212 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Meaning) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 189 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 189 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (An automated process defined in a YAML file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 166 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Event / Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 166 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (An event that starts a workflow, such as push or pull_request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 143 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Job) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 143 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (A group of steps executed on a runner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 120 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 120 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (An individual task within a job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 97 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Runner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 97 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (The machine that executes a job, such as an Ubuntu runner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 74 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 74 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (A reusable component that performs a task.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (YAML) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 40 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (A human-readable configuration format used to define) Tj T* (workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Artifact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (A file or package produced by a workflow and retained or shared) Tj T* (as configured.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 228 m 481.2283 228 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 228 l S
+n 481.2283 0 m 481.2283 228 l S
+n 0 206 m 481.2283 206 l S
+n 0 183 m 481.2283 183 l S
+n 0 160 m 481.2283 160 l S
+n 0 137 m 481.2283 137 l S
+n 0 114 m 481.2283 114 l S
+n 0 91 m 481.2283 91 l S
+n 0 68 m 481.2283 68 l S
+n 0 34 m 481.2283 34 l S
+n 240.6142 0 m 240.6142 228 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 336.1969 cm
+Q
+q
+1 0 0 1 57.02362 311.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Common workflow triggers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 32.4 Tm /F3 7.6 Tf 10 TL (on:) Tj T* (  push:) Tj T*  T* (  pull_request:) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 230.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (The example configures a workflow to run for push and Pull Request events. In a real project, triggers can be) Tj T* (restricted to particular branches or event types.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4081
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 763.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Simplified workflow example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 518.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 232.4 Tm /F3 7.6 Tf 10 TL (name: Python CI) Tj T*  T* (on:) Tj T* (  push:) Tj T* (  pull_request:) Tj T*  T* (jobs:) Tj T* (  test:) Tj T* (    runs-on: ubuntu-latest) Tj T*  T* (    steps:) Tj T* (      - name: Checkout repository) Tj T* (        uses: actions/checkout@v4) Tj T*  T* (      - name: Set up Python) Tj T* (        uses: actions/setup-python@v5) Tj T* (        with:) Tj T* (          python-version: '3.11') Tj T*  T* (      - name: Install dependencies) Tj T* (        run: pip install -r requirements.txt) Tj T*  T* (      - name: Run tests) Tj T* (        run: pytest) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 482.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (This workflow checks out the repository, configures Python, installs project dependencies and runs the test suite. A) Tj T* (failed command normally causes the job to fail, which makes the result visible in GitHub Actions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 446.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (10. Automated Testing and Quality Gates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 410.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Automated testing means executing predefined test cases using software rather than manually checking every) Tj T* (behavior each time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 385.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Example: testing an addition function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 82.4 Tm /F3 7.6 Tf 10 TL (# calculator.py) Tj T* (def add\(a, b\):) Tj T* (    return a + b) Tj T*  T* (# test_calculator.py) Tj T* (from calculator import add) Tj T*  T* (def test_addition\(\):) Tj T* (    assert add\(10, 20\) == 30) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 254.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (If the function returns 30, the assertion passes. If the implementation is changed to return an incorrect value, the test) Tj T* (fails.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 220.1969 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14 TL /F1 9.3 Tf .12549 .164706 .203922 rg (A ) Tj /F2 9.3 Tf (quality gate) Tj /F1 9.3 Tf ( is a condition that must be satisfied before a pipeline proceeds. For example, a deployment job can) Tj T* (depend on a test job succeeding. A test suite is only as useful as the behaviors it actually covers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (11. Deployment and Hosting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (Deployment is the process of releasing an application into a target environment so that it can be used. A program) Tj T* (running on a developer's laptop is not automatically accessible to other people; it needs to run in an environment) Tj T* (reachable by its intended users.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 109.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (What is Render?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 75.19685 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Render is a cloud platform that can host web applications, including Python web applications. A connected Git) Tj T* (repository can be used as the source for building and deploying a service.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 28 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 6588
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 763.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Typical deployment flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 743.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (1.) Tj /F1 9.3 Tf ( A developer pushes code to the connected GitHub branch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 723.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (2.) Tj /F1 9.3 Tf ( The hosting platform detects the update, according to its deployment configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 703.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (3.) Tj /F1 9.3 Tf ( The platform obtains the source code and runs the configured build process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 683.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (4.) Tj /F1 9.3 Tf ( The application is started using its configured start command.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 663.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (5.) Tj /F1 9.3 Tf ( The deployed service becomes available through its public URL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 629.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Deployment behavior depends on the hosting service's settings. For example, deployment may occur on every) Tj T* (commit, after CI checks pass, or only when manually requested.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 593.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (12. CI Checks and Deployment Gating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 557.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (A deployment gate connects successful validation to the decision to deploy. In a gated workflow, the deployment) Tj T* (stage should proceed only when the required CI checks have passed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 32.7 Tm /F1 9.3 Tf 14 TL (For a Render service configured to deploy after CI checks pass, the relevant GitHub checks must be associated with) Tj T* (the commit Render is evaluating. A workflow running elsewhere, on another branch or against another commit may) Tj T* (not satisfy that requirement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 461.1969 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 58 re B*
+Q
+q
+BT 1 0 0 1 0 32.5 Tm 14 TL /F2 9.5 Tf .090196 .196078 .301961 rg (Teaching tip: Show students the GitHub commit's Checks section, then compare it with the Render) Tj T* (service's Events and deployment logs. This teaches them to trace a pipeline across systems rather than) Tj T* (assuming that one green screen means every stage ran.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (13. Secrets and Environment Variables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 389.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Applications often need sensitive configuration such as API keys, database credentials and authentication secrets.) Tj T* (These values should not be hardcoded into source code or committed to a public repository.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Use GitHub Actions secrets for values needed by workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 349.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Use the hosting platform's environment-variable settings for runtime configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 329.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Limit access to secrets and rotate them if they are exposed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 309.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Never publish deployment-hook URLs, passwords, tokens or private credentials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 12.4 Tm /F3 7.6 Tf 10 TL (# Example GitHub Actions expression) Tj T* (${{ secrets.SECRET_NAME }}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 247.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (14. Deployment Environments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 148.1969 cm
+q
+.090196 .196078 .301961 rg
+n 0 91 481.2283 -22 re f*
+1 1 1 rg
+n 0 69 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 46 481.2283 -23 re f*
+1 1 1 rg
+n 0 23 481.2283 -23 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Environment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 75 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Purpose) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Used by developers while implementing and checking changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Testing / Staging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Used to validate changes before production release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Production) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (The environment used by actual customers or end users.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 91 m 481.2283 91 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 91 l S
+n 481.2283 0 m 481.2283 91 l S
+n 0 69 m 481.2283 69 l S
+n 0 46 m 481.2283 46 l S
+n 0 23 m 481.2283 23 l S
+n 240.6142 0 m 240.6142 91 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 141.1969 cm
+Q
+q
+1 0 0 1 57.02362 107.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Separating environments helps teams validate changes before releasing them to users. Not every small project) Tj T* (needs all three environments, but students should understand why larger systems often use them.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 6574
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (15. CI/CD in Collaborative Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 735.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (A typical team workflow combines Git branching, Pull Requests, automated checks and deployment:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (1.) Tj /F1 9.3 Tf ( A developer creates a feature branch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 695.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (2.) Tj /F1 9.3 Tf ( The developer implements a change and commits it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 675.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (3.) Tj /F1 9.3 Tf ( The developer pushes the branch to GitHub.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (4.) Tj /F1 9.3 Tf ( A Pull Request is opened.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 635.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (5.) Tj /F1 9.3 Tf ( GitHub Actions runs the configured checks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (6.) Tj /F1 9.3 Tf ( The team reviews the changes and checks the results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 595.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (7.) Tj /F1 9.3 Tf ( The Pull Request is merged when review and repository rules are satisfied.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 575.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (8.) Tj /F1 9.3 Tf ( The deployment process runs according to the configured release policy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 541.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (Branch protection rules can require successful status checks before a Pull Request is merged. This is a repository) Tj T* (policy; a workflow failing does not automatically block every merge unless the repository is configured to enforce it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 505.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (16. Benefits and Limitations of CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 480.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Benefits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Faster feedback on code changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 440.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Less repetitive manual testing and deployment work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 420.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Earlier detection of defects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 400.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 More consistent release processes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 380.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Better visibility into failures through logs and status checks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 360.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Improved collaboration across development teams.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 315.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Poorly designed tests can miss important defects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 295.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Flaky tests can produce inconsistent results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 275.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Incorrect workflow configuration can stop a pipeline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Secrets and permissions must be managed carefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 235.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Builds and deployments can fail because of dependency or environment differences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 215.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (\177 Monitoring and rollback strategies are still needed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 181.1969 cm
+q
+.788235 .85098 .909804 RG
+.6 w
+.933333 .956863 .980392 rg
+n -8 -8 497.2283 44 re B*
+Q
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 18.5 Tm /F2 9.5 Tf 14 TL (CI/CD improves repeatability and speed; it does not remove the need for engineering judgment, good) Tj T* (tests, security practices or operational monitoring.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 145.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (17. Workshop Implementation Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 109.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (The workshop will use a small Student Expense Tracker so students can focus on the delivery workflow rather than a) Tj T* (complicated application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 58.19685 cm
+q
+.090196 .196078 .301961 rg
+n 0 45 481.2283 -22 re f*
+1 1 1 rg
+n 0 23 481.2283 -23 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 29 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 29 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Responsibility) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Application logic) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 45 m 481.2283 45 l S
+n 0 0 m 0 45 l S
+n 481.2283 0 m 481.2283 45 l S
+n 0 0 m 481.2283 0 l S
+n 0 23 m 481.2283 23 l S
+n 240.6142 0 m 240.6142 45 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 34 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 7051
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .909804 RG
+.5 w
+n 51.02362 802.2047 m 544.252 802.2047 l S
+BT /F1 8 Tf 9.6 TL ET
+.32549 .384314 .45098 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CI/CD Pipeline \267 Teaching Handbook) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 596.1969 cm
+q
+.090196 .196078 .301961 rg
+n 0 183 481.2283 -22 re f*
+1 1 1 rg
+n 0 161 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 138 481.2283 -23 re f*
+1 1 1 rg
+n 0 115 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 92 481.2283 -23 re f*
+1 1 1 rg
+n 0 69 481.2283 -23 re f*
+.956863 .964706 .972549 rg
+n 0 46 481.2283 -23 re f*
+1 1 1 rg
+n 0 23 481.2283 -23 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 167 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 167 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.2 Tf 10 TL (Responsibility) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 144 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Flask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 144 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Web framework) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 121 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (HTML / CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 121 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (User interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 98 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Pytest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 98 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Automated testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 75 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Version control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 52 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Repository hosting and collaboration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (GitHub Actions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 29 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Workflow automation and CI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Render) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.6142 6 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Application hosting and deployment) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .866667 .898039 RG
+.35 w
+n 0 183 m 481.2283 183 l S
+n 0 161 m 0 183 l S
+n 0 0 m 0 161 l S
+n 481.2283 161 m 481.2283 183 l S
+n 481.2283 0 m 481.2283 161 l S
+n 0 0 m 481.2283 0 l S
+n 0 161 m 481.2283 161 l S
+n 240.6142 161 m 240.6142 183 l S
+n 0 138 m 481.2283 138 l S
+n 0 115 m 481.2283 115 l S
+n 0 92 m 481.2283 92 l S
+n 0 69 m 481.2283 69 l S
+n 0 46 m 481.2283 46 l S
+n 0 23 m 481.2283 23 l S
+n 240.6142 0 m 240.6142 161 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 589.1969 cm
+Q
+q
+1 0 0 1 57.02362 564.1969 cm
+q
+.141176 .388235 .65098 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Implementation phases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 544.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (1.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Build:) Tj /F1 9.3 Tf ( Create and run the application locally.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 524.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (2.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Version control:) Tj /F1 9.3 Tf ( Create a repository and practise commits, branches and Pull Requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 504.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (3.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Testing:) Tj /F1 9.3 Tf ( Write tests for core application behavior.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 484.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (4.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (CI:) Tj /F1 9.3 Tf ( Configure GitHub Actions to run tests on pushes and Pull Requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (5.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (CD:) Tj /F1 9.3 Tf ( Configure deployment to occur after the required CI checks pass.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 444.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm -0.000009 Tw 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (6.) Tj /F1 9.3 Tf ( ) Tj /F2 9.3 Tf (Failure demonstration:) Tj /F1 9.3 Tf ( Introduce a deliberate bug, observe the failed test, fix it and verify the successful pipeline.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 57.02362 408.1969 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (18. Suggested Live Demonstration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 4.7 Tm /F1 9.3 Tf 14 TL (Use one small change throughout the demonstration so students can follow the complete lifecycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 366.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (1.) Tj /F1 9.3 Tf ( Show the working application locally and its deployed URL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 346.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (2.) Tj /F1 9.3 Tf ( Create a feature branch and make a small change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 326.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (3.) Tj /F1 9.3 Tf ( Commit and push the change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 306.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (4.) Tj /F1 9.3 Tf ( Open a Pull Request and show the automated CI check.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 286.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (5.) Tj /F1 9.3 Tf ( Introduce an intentional bug and observe a failed test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (6.) Tj /F1 9.3 Tf ( Fix the bug and push the correction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 246.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (7.) Tj /F1 9.3 Tf ( Show the successful check and the deployment gate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 226.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (8.) Tj /F1 9.3 Tf ( Inspect the hosting platform's deployment events and logs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 206.1969 cm
+q
+BT 1 0 0 1 0 4.7 Tm 14 TL /F2 9.3 Tf .12549 .164706 .203922 rg (9.) Tj /F1 9.3 Tf ( Open the live application and verify the change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 172.1969 cm
+q
+.12549 .164706 .203922 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.3 Tf 14 TL (If the project deploys directly on every commit, configure the deployment policy before demonstrating a CI-gated) Tj T* (release. Otherwise, a broken commit may deploy before the tests finish.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.384314 0.45098 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 264.5028 22.67717 Tm
+(USN\072 3BR23CD073) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 37 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1317
+>>
+stream
+Gatm;969,O%)2U?i0`pX$m22bHeV8`9fm2>n[c29BUO%RO\&Q9j70l;8D1;]Z/[[9n^o(D!']<c!5]-mITZBiQN1A?E.,cWEL=t$73mK,+7ST,o^@U3P%H/)2!%%2+;q=q"QODF,%3X?+;pkX`#M[t$)^W%99<"=\EpmYi;72GOa;hB`*3?g\;W0c,)l_`J4'F@>'P%qos05..1oDsU$`OGDLT43\V18elG?X4s6r"!HY$hgkFR0SaUabdnc1g74@XNMOTO\k:(iiq4+Db[lSF@#@kMY:Bd/S<8l(?Bab'i+d(j<jit30p<0FB8#sPUFcB)a9.*X0C^qZTM1+W9cr=h#@a?s4iEF=>Pc95SP/0jYo1AN_bFfrjhki:SFl@ZF/D&,VJ73=K()-T4TbodDi+9M2r8]0<uKj,M.JB#-o#,E3\9')&SFU`+f4laOK2c%!d@mRrZc#dNjG4T=J.Le0rX;>/ZK'XIoI==Zl4RPQ"$RCt4EK!I6-%@#Qf'=Uo6rFR6#m"*i!q^7,$'"f-:.E[GN82R;9ZCf5MdT1bQ396m=t"V`ld.EcLum^1i=C3]ggM,rD0$nC"WF[sG<MW]!$j%.8ah$ea<QF&@[k?9J"-aJ5*msMi#6L'c#q^09EBmi.qQ^aN:Tl6V8@&LFBpq3S#Ii1ZT3kt!=Ab?.YX(.=">_6]-e!-hopGa)@C>52>CEdRB<Jo?fbC3J5oVhN&fC$rhSmIfAs'TBeifOpT*O?Jfb?hhUP>[7pNXZ1p/UFNO`A\V5nP_a/5]1Y#5`"nJ2;mE+b4?^mEgYf&rG<$MV`DED+hu40e7WQkHIt#uhB/[dee#1GdKkiAO>GS%%%3"!,_*`abWR@48eYas[.RMA[Q7PHuG32tMNt;B0J1=5NalLVdi5It+PEe9Fioob:A.(+)88o`NS_`j,,D%u'/IeN!hOCnhe`Bj\`8.a0G+[iODWeBuMj`sDJ]^HZ\q'p<2hM;i=`j%)a>*-amf-=5)[]^698gu"ZOksntt*:IakK@dIXfFp8Ra:BHm/\*h&-]S*@0"W]]W($Gaaam?qf/X!!i>f^V.#]P@@=#V)Z1Iqae/Ti)H?>25"JST^k.$%3&Cfl/4,NfL4q+;9P6`f/N)^$<l<10qg9a4Z2pbmHT<H8_(L=Q![mVo-=P#fHQH&Z[`kf5ATm-?[Q,%5eMq9JXU39pe/%&@-ru]nL]9g,<]@c"*qD.]:h0"+u[4-TPklt!kF?;qgoW<5/<NZ.@m'!t:W+iL[d/O'eGD1QImq"5e?dOfCQ/ObG<'X7hWp25'X'T'k/;dM/!MfYpL&55m~>
+endstream
+endobj
+37 0 obj
+<<
+/F1 38 0 R
+/F2 39 0 R
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 40
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000177 00000 n 
+0000000226 00000 n 
+0000000492 00000 n 
+0000002579 00000 n 
+0000002686 00000 n 
+0000002793 00000 n 
+0000002905 00000 n 
+0000003017 00000 n 
+0000003123 00000 n 
+0000003380 00000 n 
+0000010289 00000 n 
+0000010397 00000 n 
+0000010654 00000 n 
+0000016788 00000 n 
+0000016896 00000 n 
+0000017153 00000 n 
+0000023850 00000 n 
+0000023958 00000 n 
+0000024215 00000 n 
+0000029831 00000 n 
+0000029939 00000 n 
+0000030196 00000 n 
+0000034330 00000 n 
+0000034438 00000 n 
+0000034695 00000 n 
+0000041336 00000 n 
+0000041444 00000 n 
+0000041701 00000 n 
+0000048328 00000 n 
+0000048436 00000 n 
+0000048693 00000 n 
+0000055797 00000 n 
+0000055905 00000 n 
+0000056107 00000 n 
+0000057517 00000 n 
+0000057561 00000 n 
+0000057669 00000 n 
+trailer
+<<
+/Size 40
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+57782
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [41 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 41 0 R] >> >> >>
+endobj
+40 0 obj
+<< /Length 24276 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^‘jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^Æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:93d9ff77-a415-4d41-a222-1df91a6e50b6   ûjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-11-02T14:54:00.873298ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estartÊflength^‘dnamenjumbf manifestcalgfsha256dhashX hA;QáÅLı∆ÿ8	‘&w_«Ö—†”I∆è4&àı´˘cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:7c01c1fc-8e79-4637-9538-91e906239b5dtclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:93d9ff77-a415-4d41-a222-1df91a6e50b6/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX )${ﬂ¢ÁYW1µÅ„‘™"©1tßf2ºƒ√Fl„™¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX 3Å`nï¸Pj‰* áÈ'lca2·¶ùüR∆ë;hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  aCùÉ–ø-ÈO}ó©-ûƒÜ	wBœÊƒà…ÃTãùáü2œ’20261102145408.283196Z0Ä	 ªÜm°°>l3†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" CÊ&QõKlπ»éÄWW5Ö‰iè˘‚Ï–@ñôÎæ‘0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄÊ’d»ó" JÆeŸeõf¨Ã\3H"\:JçÛü¿eºö4jÚa[ô@yCF"D”4ß à∂ªo‘8πï%$áõ
+`3∂Às+ÏNÃºGxv∫Èo¬≥tÊnFOÒ8cAÚ	√f\Dú#Â!®ÔaÒm^†KØ€∏äö—{ˇ>s)åπûŸÚ∑$¥∞Ì,›xÙÿ€ˇô#ƒ˙ÛØ;ÎÄ^ƒaë–π›e!xF¬|Ò0xÌà¿>˛ ÔÑ–8n
+h˜gœvÕlyq£’ÀÇk†‹Ìªk3&:Â§á•«XΩ[ÑzÛ	ﬁ‘Ò®g.§‘Ñõ€ºê7àgn∫1æÒÒ•ØE∆ø∆Ì…©ß4$+jNi—DFY∑7iáy #LãyÏ@N˜ÒLı%ÆEpfVVSb()sJïã≠≠W&Y˛ÿ<#√"∏5bË_„“ôØHÒ~”´A_>.ô"Ûà˜≈≠ÁÔZI˙e˚—ù‹O„j≈∂˙e˝ÒX±erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢cÛ¢^ÕÕ≈Rπ?Û”5fm»~20261102141818Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261102141818Z†20261109141817Z°"0 0	+020161104141818Z°#0!0	+0/Â¸édZÅî÷}3Ÿ^d0	*ÜHÜ˜ ÇÅ _c&ÍnP7!'îÖÈlEYk#ØŸ–X:¿~m*ÊH–ó}'Ÿ*ì∂S“M*l≈o(ó±vÒl%ßãÓ ∂Lƒ’l\)⁄`Û∆&+∏‰ÅôÉgMuGB’®À@√6vO/ÓM√>C0ùÕ«ÚD•åO«¸⁄·˚ÒÏu‚):F0Gé±d	P~ûS*uˆÿ˚eiQ˚X±Í'¸éb’µµ∂‹v‰¸ﬂÔ–Ò:_ŒK≥˚”YÄx9Ω´ƒãV¯∂¸9KêILÇ∂÷ÔMè%>p—∆®>(©(¥’JCÛÇ”•…2ß7Ÿ◊/$–4A~Eè‘\é¶∂;”ÇM¶©‹\ä+1ò%5.@µ≈µÏ√˙ﬁºÌÃâçi›êÍ}úÑºy!u}uè6:8?-Ó∆∑Ç⁄Zyôín'5‡\"x¡[∂$¯'vü|‚ÌÑ<	æsÆ]ø&_vf”^ÊpI¬:—·Y&3∞≤˜ÄVé≠|Zsgò	sÿEﬂ$Èw1∫êlÇÖﬂÉ«z§†Ç10Ç-0Ç)0Ç†/	õËƒH®EM—g+a0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102212505Z270102212504Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ≈Á¯ô…˘Â-œhwÈiëP‹©ë\O¿´—ô)„ñŸ˘Y˜fÄäñû*´¶Ü˘dkV∏NêƒÍ,D[ïp\âKºúÁïA¯V ” &Tn=∆≥ü∂tZ¯€kûPhêù‹Zêò©ãCﬁÇùûœz`ÎãØõè)∏Ü	G≠U[^
+èÍÃäım$8Ëz˚¡¬–Ì+ıÁëpÁzπ‘Üüó4hs‡ü2`Ø∆™tFµ0fÚÎz™ÄDxCü ´bÒ“∑L1R¶$D˝#÷2“y¡⁄¨,fÏËàíCÑ/m,ïìÅ<Òâ¨'ã‘I”kb∆h*(¶»s•lÇÈl‘∞
+ Ûß%lY¬∏≤ürn4‚£x;3 q% ≠•π…[∑CN¢”[Ç¸d^t;{ƒ:ÔS´ñ˚ÌÉqúv<ü¬nmÏYdÔ9´˙åü@ˇπ<±ÃOﬂM%4ØÃ]πBÖk6[ö·0s◊Ú˜?‡ùÃá—πíœÉ‘ƒ\f˚≠Ò £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UcÛ¢^ÕÕ≈Rπ?Û”5fm»~0UˇÄ0	*ÜHÜ˜ Ç wÏ∫'8¯Ãıl>(‘≥
+œwıÜh|uÉÂIƒh˙√fΩ“pw¸L&à˜0KTdŒë| Ø∑Zµ‰™ôüá6È`ú∞"éΩÊˇ¡5ÿd_¨—>·@â®ÃâÁ†2fµ.øÒ9M˝lsæˆ 6p„’_yŸ÷r¡2LÙÖ©B∏FÇÄ3≈h,ªÂ¸2ûâ_ü–˛üãk\^tüPÒ)úP ƒV¯¯	•xw≥‰ëäÂ *∂·≤≈±!Ω¢ÖÜ8£¨∏:9 ^÷1∂˛∫:™†∫SNÚÛ*OÿdÖÇyZ‹Oã‘S¬=z¿∂¶ΩÑ*Î4Ïí2˚ µi„_:±ìQ…XRòï–6Øö›djÜ^cY¥ÇNßä¸≠˜C9CqQI€««Bë `EØC[i¸J<1ˆ|;Äù¿[^® %ıÌE¸F˛{πˆM,A$§`Ø£ÛÎ„∏ıqÉ»IΩê?Ëÿëé4X6Üﬂ’Œ∂%≈ìY˜s¡3˚0oåπÈ=“{h>6ˆ˘Ïx*˚±˙Bt1ÓöÿHn±¯û–+…ƒè˚<zœ«‰“ßj√3”÷¡ µË"ìLÆ_4éÔi{€|Ãeı1¥UâUÇN»n…√€Oëª^◊EST}hL˜\⁄)›µv,6zãGåÌc‡£´4Ÿ≈∞Eπ∫úÊ•r›∂∏!ﬁê«gcpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY ò¶®oˇ¥‘g#a ‰–˚˝'Î:WﬂTß∑D’B∆	· ÒL–QÎç&(P;4Q :Xﬁ$∫Í?áÏÂåö·Á#ÚŸü0MµÅ
+hot Â #GVù?√R™>Gç"%_V‡@[ZÚKaΩ¸˛îæΩaˆD≈Ú%≠ï(%R¿ëü∏l0`·£W|S˛ wÆúŒœ¥ÉBz ÚkÀ/µÌgI;•iÔÉhÌmæ\{
+0K%+»ç-p∫-t˚¥˙ÔQåÔ‹øªˆˇ™!K~>!≤u0M±/∏9çnpÄblr{LGBf¡?èb~7Ω4v¬ﬁZ™#§8ëh€Ü<
+endstream
+endobj
+41 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 40 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000058661 00001 n 
+40 2
+0000058796 00000 n 
+0000083175 00000 n 
+trailer
+<< /Size 42 /Root 3 1 R /Prev 57782 >>
+startxref
+83371
+%%EOF
